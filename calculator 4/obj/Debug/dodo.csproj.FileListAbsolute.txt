@@ -1,0 +1,15 @@
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo.csproj.AssemblyReference.cache
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\MainWindow.g.cs
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\App.g.cs
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo_MarkupCompile.cache
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo_MarkupCompile.lref
+C:\Users\soohyeon\Desktop\dodo\dodo\bin\Debug\dodo.exe.config
+C:\Users\soohyeon\Desktop\dodo\dodo\bin\Debug\dodo.exe
+C:\Users\soohyeon\Desktop\dodo\dodo\bin\Debug\dodo.pdb
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\MainWindow.baml
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo.g.resources
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo.Properties.Resources.resources
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo.csproj.GenerateResource.cache
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo.csproj.CoreCompileInputs.cache
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo.exe
+C:\Users\soohyeon\Desktop\dodo\dodo\obj\Debug\dodo.pdb

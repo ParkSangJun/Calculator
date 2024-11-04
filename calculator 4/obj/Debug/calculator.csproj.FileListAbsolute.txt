@@ -1,0 +1,47 @@
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\dodo_MarkupCompile.cache
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\dodo_MarkupCompile.lref
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\dodo.exe
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\dodo.pdb
+C:\Users\soohyeon\Desktop\calculator\calculator\bin\Debug\dodo.exe.config
+C:\Users\soohyeon\Desktop\calculator\calculator\bin\Debug\dodo.exe
+C:\Users\soohyeon\Desktop\calculator\calculator\bin\Debug\dodo.pdb
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\dodo.g.resources
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\dodo.Properties.Resources.resources
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\soohyeon\Desktop\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\josephine\Downloads\calculator 4\bin\Debug\dodo.exe.config
+C:\Users\josephine\Downloads\calculator 4\bin\Debug\dodo.exe
+C:\Users\josephine\Downloads\calculator 4\bin\Debug\dodo.pdb
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\MainWindow.g.cs
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\App.g.cs
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\dodo_MarkupCompile.cache
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\dodo_MarkupCompile.lref
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\MainWindow.baml
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\dodo.g.resources
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\dodo.Properties.Resources.resources
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\dodo.exe
+C:\Users\josephine\Downloads\calculator 4\obj\Debug\dodo.pdb
+D:\source\1차 과제\Cal-UI2\calculator 4\bin\Debug\dodo.exe.config
+D:\source\1차 과제\Cal-UI2\calculator 4\bin\Debug\dodo.exe
+D:\source\1차 과제\Cal-UI2\calculator 4\bin\Debug\dodo.pdb
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\MainWindow.g.cs
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\App.g.cs
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\dodo_MarkupCompile.cache
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\dodo_MarkupCompile.lref
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\MainWindow.baml
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\dodo.g.resources
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\dodo.Properties.Resources.resources
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\dodo.exe
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\dodo.pdb
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\App.baml
+D:\source\1차 과제\Cal-UI2\calculator 4\obj\Debug\calculator.csproj.AssemblyReference.cache
